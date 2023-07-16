@@ -1,0 +1,172 @@
+{
+	"info": {
+		"_postman_id": "278c42e7-537d-4c44-8d82-569412c702eb",
+		"name": "swe",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8080/search",
+			"_postman_id": "0f059087-e397-4600-9a9b-30b6bfd00310",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"city\": \"petalborough\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8080/search"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/search",
+			"_postman_id": "e2d033d0-735b-44d7-b35d-e409c082c1e3",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"city\": \"petalborough\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8080/search"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/search",
+			"_postman_id": "1eaf5a2d-0774-4ab1-bf24-6f5f4a59b02a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"city\": \"petalborough\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8080/search"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/search",
+			"_postman_id": "e587006a-bfc9-448c-a112-6665468df304",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"city\": \"petalborough\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8080/search"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/search",
+			"_postman_id": "5e6b7713-7c37-4370-90e5-e9ccaedcc68a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"city\": \"petalborough\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8080/search"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/search",
+			"_postman_id": "539794e0-c778-45eb-9c4e-a344ce4aaec5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"city\": \"petalborough\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8080/search"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/search",
+			"_postman_id": "fec147da-5823-44f9-812e-7832ea76b2b3",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"city\": \"petalborough\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8080/search"
+			},
+			"response": []
+		}
+	]
+}
